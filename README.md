@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=add8e6&height=250&section=header&text=I%20am%20Ellie%20🙋🏻‍♀️&desc=This%20is%20my%20ShellTer,%20and&fontAlign=80&descAlign=70&descAlignY=33&fontSize=50&animation=fadeIn)
 
-<p align="center">
+<div align="center">
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F31lie%2Fhit-counter&count_bg=%232F78D8&title_bg=%23C0D4F6&icon=keybase.svg&icon_color=%23203D7F&title=helloo&edge_flat=false)](https://github.com/31lie)
   
@@ -17,4 +17,4 @@
 
   #### 🌊 Love cowork with
   <img src="https://img.shields.io/badge/Github-696969?style=round-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-dcdcdc?style=round-square&logo=notion&logoColor=black"/>
-</p>
+</div>
