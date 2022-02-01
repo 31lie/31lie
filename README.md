@@ -15,6 +15,6 @@
   <br>
   <br>
 
-  #### 🌊  Love cowork with
+  #### 🫂 Love cowork with
   <img src="https://img.shields.io/badge/Github-696969?style=round-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-dcdcdc?style=round-square&logo=notion&logoColor=black"/>
 </div>
