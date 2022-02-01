@@ -7,6 +7,7 @@
   #### 💡 I can work with
   <img src="https://img.shields.io/badge/HTML-dc143c?style=round-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-d2691e?style=round-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/SCSS-daa520?style=round-square&logo=Sass&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-2e8b57?style=round-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-4682B4?style=round-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-483D8B?style=round-square&logo=C&logoColor=white"/>
   <br>
+<img src="https://img.shields.io/badge/Java-FFB6C1?style=round-square&logo=Java&logoColor=white"/>
 
   #### 🔥 Studying
 
