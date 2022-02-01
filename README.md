@@ -11,7 +11,7 @@
 
   #### 🔥 Studying
 
-  <img src="https://img.shields.io/badge/Swift-b0e0e6?style=round-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/React-b0c4de?style=round-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-b0e0e6?style=round-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-b0c4de?style=round-square&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-b0e0e6?style=round-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-b0c4de?style=round-square&logo=jQuery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-b0e0e6?style=round-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/React-b0c4de?style=round-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-b0e0e6?style=round-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-b0c4de?style=round-square&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-b0e0e6?style=round-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-b0c4de?style=round-square&logo=jQuery&logoColor=white"/> <img src="https://img.shields.io/badge/Security-b0e0e6?style=round-square&logo=Spring Security&logoColor=white"/>
   <br><br>
   <img src="https://img.shields.io/badge/Algorithm-E6E6FA?style=round-square&logo=The Algorithms&logoColor=white"/>
   <br>
